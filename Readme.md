@@ -5,7 +5,7 @@ Prefix and suffix content pulled from static blocks with HTML comments specifyin
 ##Installation
 Copy/Paste the app folder into the root of your project
 
-##Limitations
+##Uninstall
 Delete the following:
 - app/code/local/CmsBlock
 - app/etc/Demac_CmsBlock.xml
